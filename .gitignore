@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+*.h5
+*.pkl
+*.model
+*.weights
+data/
+datasets/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
